@@ -1,12 +1,15 @@
 # Kodluyoruz Ilk Repo
+---
 Bu Repo [Kodluyoruz](https://www.kodluyoruz.org) Egitiminde olusturdugumuz repo. Icerisinde bir adet README dosyasi, bir adet index.html barindiriyor
 
-![RepoImage][C:/Users/safak/Desktop/Coding/Patika.dev/GitEgitim/RepoGorsel.png]
+![RepoImage][RepoGorsel.png]
 
 ## Installation
+---
 öncelikle projeyi clonelayın (Buraya link gelecek)
 
 ## Usage
+---
 Projeyi cloneladiktan sonra Visual Stuido Code programinda Aciniz
 
 **Linux icin:**
@@ -17,8 +20,9 @@ code .
 ```
 
 ## Contributing
+---
 pull register kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz
 
 ## License
-
+---
 [MIT](https://choosealicense.com/licenses/mit/)
